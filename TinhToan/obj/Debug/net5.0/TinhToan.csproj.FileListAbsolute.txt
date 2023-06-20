@@ -1,0 +1,5 @@
+C:\Users\Pi\source\repos\TinhToan\TinhToan\obj\Debug\net5.0\TinhToan.csproj.AssemblyReference.cache
+C:\Users\Pi\source\repos\TinhToan\TinhToan\obj\Debug\net5.0\TinhToan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pi\source\repos\TinhToan\TinhToan\obj\Debug\net5.0\TinhToan.AssemblyInfoInputs.cache
+C:\Users\Pi\source\repos\TinhToan\TinhToan\obj\Debug\net5.0\TinhToan.AssemblyInfo.cs
+C:\Users\Pi\source\repos\TinhToan\TinhToan\obj\Debug\net5.0\TinhToan.csproj.CoreCompileInputs.cache
